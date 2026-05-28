@@ -62,7 +62,7 @@ Rather than requiring multi-wavelength hardware redesigns, a pure mathematical c
 │
 ▼
 [Verified Clinical SpO2 Output + Quality Flag]
-
+```
 ---
 
 ## 📊 Performance Verification & Results
