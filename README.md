@@ -1,25 +1,25 @@
-# Melanin-Compensated SpO2 Algorithm Core (SiMD)
+# Melanin Compensated SpO2 Algorithm Core (SiMD)
 
 [![Compliance](https://img.shields.io/badge/Regulatory-IEC_62304_Class_B-blue.svg)](#)
 [![Framework](https://img.shields.io/badge/Design-Model--Based_Design-orange.svg)](#)
 [![Language](https://img.shields.io/badge/Output-Embedded_C%2B%2B-green.svg)](#)
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](#)
 
-A pure-software, host-agnostic signal processing core developed to eliminate systemic skin pigmentation inaccuracies in dual-wavelength pulse oximetry systems.
+A pure software, host agnostic signal processing core developed to eliminate systemic skin pigmentation inaccuracies in dual wavelength pulse oximetry systems.
 
 ---
 
 ## 🔴 The Problem
 
-Standard commercial pulse oximeters measure blood oxygen saturation (SpO2) by analysing how oxygenated and deoxygenated haemoglobin absorb red (660nm) and infrared (940nm) light differently. However, melanin — the pigment determining skin tone — absorbs red light significantly more than infrared light, distorting the optical ratio and causing systematic SpO2 overestimation in darker-skinned patients across Fitzpatrick Types IV-VI and the Monk Skin Tone scale.
+Standard commercial pulse oximeters measure blood oxygen saturation (SpO2) by analysing how oxygenated and deoxygenated haemoglobin absorb red (660nm) and infrared (940nm) light differently. However, melanin the pigment determining skin tone absorbs red light significantly more than infrared light, distorting the optical ratio and causing systematic SpO2 overestimation in darker skinned patients across Fitzpatrick Types IV-VI and the Monk Skin Tone scale.
 
-This causes occult hypoxemia — a clinically dangerous condition where a monitor falsely reads safe blood oxygen levels (≥92%) while true arterial saturation is critically low — leading to delayed treatment decisions, documented in FDA safety communications since 2022.
+This causes occult hypoxemia a clinically dangerous condition where a monitor falsely reads safe blood oxygen levels (≥92%) while true arterial saturation is critically low leading to delayed treatment decisions, documented in FDA safety communications since 2022.
 
 ---
 
 ## 🚀 The Solution: Software-Defined Compensation
 
-Rather than requiring multi-wavelength hardware redesigns, a pure mathematical compensation engine was developed to optimize existing hardware. By evaluating real-time non-pulsatile optical attenuation, the algorithm dynamically classifies tissue properties and balances optical ratios without modifying any optoelectronic components.
+Rather than requiring multi wavelength hardware redesigns, a pure mathematical compensation engine was developed to optimize existing hardware. By evaluating realtime non-pulsatile optical attenuation, the algorithm dynamically classifies tissue properties and balances optical ratios without modifying any optoelectronic components.
 
 ### Architecture Overview
 
