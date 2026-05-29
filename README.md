@@ -23,7 +23,7 @@ Rather than requiring multi wavelength hardware redesigns, a pure mathematical c
 
 ### Architecture Overview
 
-![Simulink Architecture Pipeline](images/Full_Model.png)
+![Simulink Architecture Pipeline](Full_Model.png)
 
 ### Core Pipeline (6 Functional Blocks)
 
