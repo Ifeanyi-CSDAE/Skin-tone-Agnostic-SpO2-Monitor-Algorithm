@@ -70,11 +70,17 @@ introducing measurement inaccuracy in light or medium skin tones
 ## 📋 Development Status
 
 ✅ Requirements specification complete (URS + SRS, 50 requirements)
+
 ✅ Full bidirectional traceability (URS → SRS → Design → Verification)
+
 ✅ MATLAB algorithm prototyping complete (6 blocks)
+
 ✅ Simulink Model-Based Design complete
+
 ✅ Production C++ code generation complete (Embedded Coder)
+
 ✅ Performance verification complete (ARMS = 2.35%)
+
 🔄 Full DHF documentation in progress
 
 ---
