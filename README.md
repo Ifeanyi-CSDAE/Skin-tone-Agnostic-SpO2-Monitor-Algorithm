@@ -53,7 +53,7 @@ optical sensor at 500Hz.
 | Valid Windows | n=213 | — | Statistically sound |
 | PI Quality Gate | 88% valid | — | Working correctly |
 
-Skin-aware correction eliminates dark skin tone bias without 
+Skin aware correction eliminates dark skin tone bias without 
 introducing measurement inaccuracy in light or medium skin tones 
 (Fitzpatrick I-VI).
 
