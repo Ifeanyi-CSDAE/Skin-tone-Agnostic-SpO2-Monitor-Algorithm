@@ -88,7 +88,7 @@ introducing measurement inaccuracy in light or medium skin tones
 ## 📁 Repository Contents
 
 This public repository contains verification visuals and 
-high-level architectural documentation only.
+high level architectural documentation only.
 
 | File | Description |
 |------|-------------|
@@ -111,7 +111,3 @@ For technical discussions or collaboration enquiries:
 **Ifeanyichukwu Obidike**
 Founder, Anyionic Technologies
 [LinkedIn](https://www.linkedin.com/in/ifeanyichukwu-obidike-532200199)
-
----
-
-*Developed by Anyionic Technologies — 2026*
