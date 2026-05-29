@@ -115,4 +115,6 @@ For technical discussions or collaboration enquiries:
 
 **Ifeanyichukwu Obidike**
 
+[Email](ifeanyiobidike60@gmail.com)
+
 [LinkedIn](https://www.linkedin.com/in/ifeanyichukwu-obidike-532200199)
