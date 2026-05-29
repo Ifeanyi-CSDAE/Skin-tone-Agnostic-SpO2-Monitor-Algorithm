@@ -94,7 +94,7 @@ high-level architectural documentation only.
 |------|-------------|
 | `Full_Model.png` | Simulink functional module architecture |
 | `Complete_Algorithm_Results_PTT_PPG.png` | Validation metrics |
-| `DUAL_CHANNEL_AC-DC_DECOMPOSITION_PTT_PPG.png` | Signal decomposition |
+| `DUAL-CHANNEL_AC-DC_DECOMPOSITION_PTT_PPG.png` | Signal decomposition |
 | `Melanin_Index_Analysis_PTT_PPG.png` | Tier classification metrics |
 
 > **IP Notice:** Proprietary model logic (`.slx`), calibration 
