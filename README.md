@@ -27,13 +27,8 @@ Rather than requiring multi wavelength hardware redesigns, a pure mathematical c
 
 ### Core Pipeline (6 Functional Blocks)
 
-```text
-<p align="center">
-  <img src="./images/spo2_pipeline.png" width="750"/>
-  <br/>
-  <em>Figure 2: Melanin-compensated SpO₂ signal processing pipeline</em>
-</p>
-```
+![Melanin Compensated SpO₂ Signal Processing Pipeline](SpO2_Core_Pipeline.png)
+
 ---
 
 ## 📊 Performance Verification & Results
