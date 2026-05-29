@@ -11,9 +11,9 @@ A pure software, host agnostic signal processing core developed to eliminate sys
 
 ## 🔴 The Problem
 
-Standard commercial pulse oximeters measure blood oxygen saturation (SpO2) by analysing how oxygenated and deoxygenated haemoglobin absorb red (660nm) and infrared (940nm) light differently. However, melanin the pigment determining skin tone absorbs red light significantly more than infrared light, distorting the optical ratio and causing systematic SpO2 overestimation in darker skinned patients across Fitzpatrick Types IV-VI and the Monk Skin Tone scale.
+Standard commercial pulse oximeters measure blood oxygen saturation (SpO2) by analysing how oxygenated and deoxygenated haemoglobin absorb red (660nm) and infrared (940nm) light differently. However, melanin, the pigment determining skin tone, absorbs red light significantly more than infrared light, distorting the optical ratio and causing systematic SpO2 overestimation in darker skinned patients across Fitzpatrick Types IV-VI and the Monk Skin Tone scale.
 
-This causes occult hypoxemia a clinically dangerous condition where a monitor falsely reads safe blood oxygen levels (≥92%) while true arterial saturation is critically low leading to delayed treatment decisions, documented in FDA safety communications since 2022.
+This causes occult hypoxemia, a clinically dangerous condition where a monitor falsely reads safe blood oxygen levels (≥92%) while true arterial saturation is critically low, leading to delayed treatment decisions, documented in FDA safety communications since 2022.
 
 ---
 
